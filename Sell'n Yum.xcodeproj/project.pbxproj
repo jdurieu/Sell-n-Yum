@@ -1,0 +1,292 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3CDBADF71C6DC2F3003A26EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBADF61C6DC2F3003A26EC /* AppDelegate.swift */; };
+		3CDBADF91C6DC2F3003A26EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBADF81C6DC2F3003A26EC /* ViewController.swift */; };
+		3CDBADFC1C6DC2F3003A26EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CDBADFA1C6DC2F3003A26EC /* Main.storyboard */; };
+		3CDBADFE1C6DC2F3003A26EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CDBADFD1C6DC2F3003A26EC /* Assets.xcassets */; };
+		3CDBAE011C6DC2F3003A26EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CDBADFF1C6DC2F3003A26EC /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3CDBADF31C6DC2F3003A26EC /* Sell'n Yum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sell'n Yum.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3CDBADF61C6DC2F3003A26EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3CDBADF81C6DC2F3003A26EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3CDBADFB1C6DC2F3003A26EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3CDBADFD1C6DC2F3003A26EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3CDBAE001C6DC2F3003A26EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3CDBAE021C6DC2F3003A26EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3CDBADF01C6DC2F3003A26EC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3CDBADEA1C6DC2F3003A26EC = {
+			isa = PBXGroup;
+			children = (
+				3CDBADF51C6DC2F3003A26EC /* Sell'n Yum */,
+				3CDBADF41C6DC2F3003A26EC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3CDBADF41C6DC2F3003A26EC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3CDBADF31C6DC2F3003A26EC /* Sell'n Yum.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3CDBADF51C6DC2F3003A26EC /* Sell'n Yum */ = {
+			isa = PBXGroup;
+			children = (
+				3CDBADF61C6DC2F3003A26EC /* AppDelegate.swift */,
+				3CDBADF81C6DC2F3003A26EC /* ViewController.swift */,
+				3CDBADFA1C6DC2F3003A26EC /* Main.storyboard */,
+				3CDBADFD1C6DC2F3003A26EC /* Assets.xcassets */,
+				3CDBADFF1C6DC2F3003A26EC /* LaunchScreen.storyboard */,
+				3CDBAE021C6DC2F3003A26EC /* Info.plist */,
+			);
+			path = "Sell'n Yum";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3CDBADF21C6DC2F3003A26EC /* Sell'n Yum */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3CDBAE051C6DC2F3003A26EC /* Build configuration list for PBXNativeTarget "Sell'n Yum" */;
+			buildPhases = (
+				3CDBADEF1C6DC2F3003A26EC /* Sources */,
+				3CDBADF01C6DC2F3003A26EC /* Frameworks */,
+				3CDBADF11C6DC2F3003A26EC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Sell'n Yum";
+			productName = "Sell'n Yum";
+			productReference = 3CDBADF31C6DC2F3003A26EC /* Sell'n Yum.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3CDBADEB1C6DC2F3003A26EC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Jonathan Durieu";
+				TargetAttributes = {
+					3CDBADF21C6DC2F3003A26EC = {
+						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = P2BJD6MUUA;
+					};
+				};
+			};
+			buildConfigurationList = 3CDBADEE1C6DC2F3003A26EC /* Build configuration list for PBXProject "Sell'n Yum" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3CDBADEA1C6DC2F3003A26EC;
+			productRefGroup = 3CDBADF41C6DC2F3003A26EC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3CDBADF21C6DC2F3003A26EC /* Sell'n Yum */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3CDBADF11C6DC2F3003A26EC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3CDBAE011C6DC2F3003A26EC /* LaunchScreen.storyboard in Resources */,
+				3CDBADFE1C6DC2F3003A26EC /* Assets.xcassets in Resources */,
+				3CDBADFC1C6DC2F3003A26EC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3CDBADEF1C6DC2F3003A26EC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3CDBADF91C6DC2F3003A26EC /* ViewController.swift in Sources */,
+				3CDBADF71C6DC2F3003A26EC /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3CDBADFA1C6DC2F3003A26EC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3CDBADFB1C6DC2F3003A26EC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3CDBADFF1C6DC2F3003A26EC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3CDBAE001C6DC2F3003A26EC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3CDBAE031C6DC2F3003A26EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3CDBAE041C6DC2F3003A26EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3CDBAE061C6DC2F3003A26EC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Sell'n Yum/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Jonathan-Durieu.Sell-n-Yum";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		3CDBAE071C6DC2F3003A26EC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Sell'n Yum/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Jonathan-Durieu.Sell-n-Yum";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3CDBADEE1C6DC2F3003A26EC /* Build configuration list for PBXProject "Sell'n Yum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CDBAE031C6DC2F3003A26EC /* Debug */,
+				3CDBAE041C6DC2F3003A26EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3CDBAE051C6DC2F3003A26EC /* Build configuration list for PBXNativeTarget "Sell'n Yum" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3CDBAE061C6DC2F3003A26EC /* Debug */,
+				3CDBAE071C6DC2F3003A26EC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3CDBADEB1C6DC2F3003A26EC /* Project object */;
+}

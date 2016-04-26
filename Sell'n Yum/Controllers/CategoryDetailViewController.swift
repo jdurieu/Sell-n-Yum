@@ -21,12 +21,11 @@ class CategoryDetailViewController: UIViewController {
         super.viewDidLoad()
         self.navigationItem.title = CategoryName
 
-        // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+
     }
     
 
@@ -42,7 +41,7 @@ class CategoryDetailViewController: UIViewController {
         let categoryCell = CategoryDetailTableView.dequeueReusableCellWithIdentifier(cellIdentifier, forIndexPath: indexPath)
         let category = allMealsFromCategory[indexPath.row]
         categoryCell.textLabel?.text = category.name
-        // manque le nombre de repas dans la catégorie
+
         return categoryCell
     }
     

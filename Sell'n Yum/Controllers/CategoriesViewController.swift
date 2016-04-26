@@ -20,10 +20,7 @@ class CategoriesViewController: UIViewController {
         super.viewDidLoad()
         
         allCategories = ModelGenerator.allCategories()
-        
-        
-        // Do any additional setup after loading the view.
-    }
+        }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
@@ -60,10 +57,6 @@ class CategoriesViewController: UIViewController {
             let destinationViewController = segue.destinationViewController as! CategoryDetailViewController
             destinationViewController.allMealsFromCategory = segueMeals.meals
             destinationViewController.CategoryName = segueMeals.name
-            
-            
-            
-            //allCategories.deselectRowAtIndexPath(selectedIndexPath, animated: true)
             
         }
 

@@ -7,40 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C4B3C2A1C77213400866FCB /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C231C77213400866FCB /* AboutViewController.swift */; };
+		3C4B3C2B1C77213400866FCB /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C241C77213400866FCB /* CategoriesViewController.swift */; };
+		3C4B3C2C1C77213400866FCB /* CategoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C251C77213400866FCB /* CategoryDetailViewController.swift */; };
+		3C4B3C2D1C77213400866FCB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C261C77213400866FCB /* LoginViewController.swift */; };
+		3C4B3C2E1C77213400866FCB /* MealDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C271C77213400866FCB /* MealDetailViewController.swift */; };
+		3C4B3C2F1C77213400866FCB /* TopMealsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C281C77213400866FCB /* TopMealsViewController.swift */; };
+		3C4B3C301C77213400866FCB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C291C77213400866FCB /* ViewController.swift */; };
+		3C4B3C351C77215D00866FCB /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C321C77215D00866FCB /* Category.swift */; };
+		3C4B3C361C77215D00866FCB /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C331C77215D00866FCB /* Meal.swift */; };
+		3C4B3C371C77215D00866FCB /* ModelGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4B3C341C77215D00866FCB /* ModelGenerator.swift */; };
 		3CDBADF71C6DC2F3003A26EC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBADF61C6DC2F3003A26EC /* AppDelegate.swift */; };
-		3CDBADF91C6DC2F3003A26EC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBADF81C6DC2F3003A26EC /* ViewController.swift */; };
 		3CDBADFC1C6DC2F3003A26EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CDBADFA1C6DC2F3003A26EC /* Main.storyboard */; };
 		3CDBADFE1C6DC2F3003A26EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3CDBADFD1C6DC2F3003A26EC /* Assets.xcassets */; };
 		3CDBAE011C6DC2F3003A26EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CDBADFF1C6DC2F3003A26EC /* LaunchScreen.storyboard */; };
-		3CDBAE0B1C6DC32E003A26EC /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE081C6DC32E003A26EC /* Category.swift */; };
-		3CDBAE0C1C6DC32E003A26EC /* Meal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE091C6DC32E003A26EC /* Meal.swift */; };
-		3CDBAE0D1C6DC32E003A26EC /* ModelGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE0A1C6DC32E003A26EC /* ModelGenerator.swift */; };
-		3CDBAE0F1C6DC8FC003A26EC /* MealDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE0E1C6DC8FC003A26EC /* MealDetailViewController.swift */; };
-		3CDBAE131C6DC969003A26EC /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE121C6DC969003A26EC /* AboutViewController.swift */; };
-		3CDBAE151C6DCB12003A26EC /* TopMealsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE141C6DCB12003A26EC /* TopMealsViewController.swift */; };
-		3CDBAE171C6DCB20003A26EC /* CategoriesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE161C6DCB20003A26EC /* CategoriesViewController.swift */; };
-		3CDBAE191C6DD250003A26EC /* CategoryDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE181C6DD250003A26EC /* CategoryDetailViewController.swift */; };
-		3CDBAE1F1C6DF031003A26EC /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE1E1C6DF031003A26EC /* LoginViewController.swift */; };
 		3CDBAE211C6DF2C6003A26EC /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CDBAE201C6DF2C6003A26EC /* CustomTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C4B3C231C77213400866FCB /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		3C4B3C241C77213400866FCB /* CategoriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
+		3C4B3C251C77213400866FCB /* CategoryDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryDetailViewController.swift; sourceTree = "<group>"; };
+		3C4B3C261C77213400866FCB /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		3C4B3C271C77213400866FCB /* MealDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealDetailViewController.swift; sourceTree = "<group>"; };
+		3C4B3C281C77213400866FCB /* TopMealsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopMealsViewController.swift; sourceTree = "<group>"; };
+		3C4B3C291C77213400866FCB /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3C4B3C321C77215D00866FCB /* Category.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		3C4B3C331C77215D00866FCB /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
+		3C4B3C341C77215D00866FCB /* ModelGenerator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelGenerator.swift; sourceTree = "<group>"; };
 		3CDBADF31C6DC2F3003A26EC /* Sell'n Yum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sell'n Yum.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CDBADF61C6DC2F3003A26EC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3CDBADF81C6DC2F3003A26EC /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3CDBADFB1C6DC2F3003A26EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3CDBADFD1C6DC2F3003A26EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3CDBAE001C6DC2F3003A26EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3CDBAE021C6DC2F3003A26EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3CDBAE081C6DC32E003A26EC /* Category.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
-		3CDBAE091C6DC32E003A26EC /* Meal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Meal.swift; sourceTree = "<group>"; };
-		3CDBAE0A1C6DC32E003A26EC /* ModelGenerator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ModelGenerator.swift; sourceTree = "<group>"; };
-		3CDBAE0E1C6DC8FC003A26EC /* MealDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MealDetailViewController.swift; sourceTree = "<group>"; };
-		3CDBAE121C6DC969003A26EC /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
-		3CDBAE141C6DCB12003A26EC /* TopMealsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TopMealsViewController.swift; sourceTree = "<group>"; };
-		3CDBAE161C6DCB20003A26EC /* CategoriesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoriesViewController.swift; sourceTree = "<group>"; };
-		3CDBAE181C6DD250003A26EC /* CategoryDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryDetailViewController.swift; sourceTree = "<group>"; };
-		3CDBAE1E1C6DF031003A26EC /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		3CDBAE201C6DF2C6003A26EC /* CustomTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -55,6 +55,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3C4B3C221C77213400866FCB /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3C4B3C231C77213400866FCB /* AboutViewController.swift */,
+				3C4B3C241C77213400866FCB /* CategoriesViewController.swift */,
+				3C4B3C251C77213400866FCB /* CategoryDetailViewController.swift */,
+				3C4B3C261C77213400866FCB /* LoginViewController.swift */,
+				3C4B3C271C77213400866FCB /* MealDetailViewController.swift */,
+				3C4B3C281C77213400866FCB /* TopMealsViewController.swift */,
+				3C4B3C291C77213400866FCB /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3C4B3C311C77215D00866FCB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3C4B3C321C77215D00866FCB /* Category.swift */,
+				3C4B3C331C77215D00866FCB /* Meal.swift */,
+				3C4B3C341C77215D00866FCB /* ModelGenerator.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
 		3CDBADEA1C6DC2F3003A26EC = {
 			isa = PBXGroup;
 			children = (
@@ -74,40 +98,16 @@
 		3CDBADF51C6DC2F3003A26EC /* Sell'n Yum */ = {
 			isa = PBXGroup;
 			children = (
-				3CDBAE111C6DC932003A26EC /* Models */,
-				3CDBAE101C6DC916003A26EC /* Controllers */,
+				3C4B3C311C77215D00866FCB /* Models */,
+				3C4B3C221C77213400866FCB /* Controllers */,
 				3CDBADF61C6DC2F3003A26EC /* AppDelegate.swift */,
+				3CDBAE201C6DF2C6003A26EC /* CustomTableViewCell.swift */,
 				3CDBADFA1C6DC2F3003A26EC /* Main.storyboard */,
 				3CDBADFD1C6DC2F3003A26EC /* Assets.xcassets */,
 				3CDBADFF1C6DC2F3003A26EC /* LaunchScreen.storyboard */,
 				3CDBAE021C6DC2F3003A26EC /* Info.plist */,
 			);
 			path = "Sell'n Yum";
-			sourceTree = "<group>";
-		};
-		3CDBAE101C6DC916003A26EC /* Controllers */ = {
-			isa = PBXGroup;
-			children = (
-				3CDBADF81C6DC2F3003A26EC /* ViewController.swift */,
-				3CDBAE0E1C6DC8FC003A26EC /* MealDetailViewController.swift */,
-				3CDBAE121C6DC969003A26EC /* AboutViewController.swift */,
-				3CDBAE141C6DCB12003A26EC /* TopMealsViewController.swift */,
-				3CDBAE161C6DCB20003A26EC /* CategoriesViewController.swift */,
-				3CDBAE181C6DD250003A26EC /* CategoryDetailViewController.swift */,
-				3CDBAE1E1C6DF031003A26EC /* LoginViewController.swift */,
-				3CDBAE201C6DF2C6003A26EC /* CustomTableViewCell.swift */,
-			);
-			name = Controllers;
-			sourceTree = "<group>";
-		};
-		3CDBAE111C6DC932003A26EC /* Models */ = {
-			isa = PBXGroup;
-			children = (
-				3CDBAE081C6DC32E003A26EC /* Category.swift */,
-				3CDBAE091C6DC32E003A26EC /* Meal.swift */,
-				3CDBAE0A1C6DC32E003A26EC /* ModelGenerator.swift */,
-			);
-			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -182,18 +182,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3CDBAE1F1C6DF031003A26EC /* LoginViewController.swift in Sources */,
-				3CDBAE0D1C6DC32E003A26EC /* ModelGenerator.swift in Sources */,
-				3CDBAE0C1C6DC32E003A26EC /* Meal.swift in Sources */,
-				3CDBAE171C6DCB20003A26EC /* CategoriesViewController.swift in Sources */,
-				3CDBAE0F1C6DC8FC003A26EC /* MealDetailViewController.swift in Sources */,
-				3CDBAE151C6DCB12003A26EC /* TopMealsViewController.swift in Sources */,
+				3C4B3C371C77215D00866FCB /* ModelGenerator.swift in Sources */,
+				3C4B3C301C77213400866FCB /* ViewController.swift in Sources */,
+				3C4B3C2E1C77213400866FCB /* MealDetailViewController.swift in Sources */,
 				3CDBAE211C6DF2C6003A26EC /* CustomTableViewCell.swift in Sources */,
-				3CDBAE131C6DC969003A26EC /* AboutViewController.swift in Sources */,
-				3CDBADF91C6DC2F3003A26EC /* ViewController.swift in Sources */,
+				3C4B3C351C77215D00866FCB /* Category.swift in Sources */,
+				3C4B3C2C1C77213400866FCB /* CategoryDetailViewController.swift in Sources */,
 				3CDBADF71C6DC2F3003A26EC /* AppDelegate.swift in Sources */,
-				3CDBAE0B1C6DC32E003A26EC /* Category.swift in Sources */,
-				3CDBAE191C6DD250003A26EC /* CategoryDetailViewController.swift in Sources */,
+				3C4B3C2F1C77213400866FCB /* TopMealsViewController.swift in Sources */,
+				3C4B3C361C77215D00866FCB /* Meal.swift in Sources */,
+				3C4B3C2D1C77213400866FCB /* LoginViewController.swift in Sources */,
+				3C4B3C2A1C77213400866FCB /* AboutViewController.swift in Sources */,
+				3C4B3C2B1C77213400866FCB /* CategoriesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,7 +308,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Jonathan-Durieu.Sell-n-Yum";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -320,7 +320,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Jonathan-Durieu.Sell-n-Yum";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -343,6 +343,7 @@
 				3CDBAE071C6DC2F3003A26EC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

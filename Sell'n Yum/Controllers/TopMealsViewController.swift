@@ -20,8 +20,6 @@ class TopMealsViewController: UIViewController {
 
         allMeals = ModelGenerator.allTopMeals()
         
-        
-        // Do any additional setup after loading the view.
     }
 
     override func didReceiveMemoryWarning() {
@@ -43,6 +41,7 @@ class TopMealsViewController: UIViewController {
         mealCell.textLabel?.text = meal.name
         return mealCell
     }
+    
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
         
     }
@@ -59,19 +58,6 @@ class TopMealsViewController: UIViewController {
             TopMealsTableView.deselectRowAtIndexPath(selectedIndexPath, animated: true)
         }
 
-        
-        
-        
     }
     
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
-    }
-    */
-
 }
